@@ -1,5 +1,4 @@
 class Snake
-	@@count = 0 
 	attr_accessor :direction, :positions
 
 	def initialize 
