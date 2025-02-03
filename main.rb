@@ -1,6 +1,5 @@
 require 'ruby2d'
 require 'mp3info' 
-require 'byebug'
 require_relative 'game.rb'
 require_relative 'snake_detail.rb'
 
